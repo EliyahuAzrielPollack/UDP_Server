@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="javamagazin-netty-ws/src/main/java"/>
+	<classpathentry kind="src" path="javamagazin-netty/src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew Sarafzadeh/OneDrive/FinalProject/Netty/UDP Server/all-in-one/netty-all-5.0.0.Alpha2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew Sarafzadeh/OneDrive/FinalProject/Netty/UDP Server/all-in-one/netty-all-5.0.0.Alpha2-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
